@@ -1,0 +1,23 @@
+{
+  "name": "render-deploy-firsttime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitPokhriyal5/render-first-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitPokhriyal5/render-first-time/issues"
+  },
+  "homepage": "https://github.com/SumitPokhriyal5/render-first-time#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
